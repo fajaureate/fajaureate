@@ -1,5 +1,6 @@
-## Hi there 👋
-i'm a
+## it's me, hi! i'm the problem it's me
+
+
 <!--
 **fajaureate/fajaureate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
