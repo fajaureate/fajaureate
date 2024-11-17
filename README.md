@@ -1,5 +1,5 @@
 ## hi!
-## just, hi
+## just, hi.
 
 
 <!--
